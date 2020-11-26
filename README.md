@@ -1,2 +1,2 @@
 # CodingPractice
-Collection of my code
+Welcome to my repo. Hope my code can help or be usefull. Thanks
